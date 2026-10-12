@@ -1,0 +1,1 @@
+"""VyshKat fleet accounting application."""
